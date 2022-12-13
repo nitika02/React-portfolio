@@ -11,3 +11,31 @@
     font-family: 'Raleway', sans-serif;
   }
 }
+#portfolio-item {
+  display: flex;
+  flex-direction: column;
+}
+
+#container {
+  display: flex;
+}
+#portfolio-img {
+  width: 400px;
+  height: 200px;
+}
+
+
+#about-section {
+  padding-bottom: 400px;
+  padding-top: 200px;
+}
+
+#portfolio-section {
+  padding-bottom: 400px;
+  padding-top: 300px;
+}
+
+#skills-section {
+  padding-bottom: 400px;
+  padding-top: 400px;
+}
